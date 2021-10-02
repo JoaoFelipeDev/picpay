@@ -29,7 +29,7 @@ class _PicPayState extends State<PicPay> {
             Column(children: [
               Text("Meu saldo", style: TextStyle(fontWeight: FontWeight.bold)),
               Text(
-                "R\$ 10,00",
+                "R\$ 4800,00",
                 style: Theme.of(context).textTheme.headline6,
               )
             ]),
